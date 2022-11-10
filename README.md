@@ -1,22 +1,15 @@
-# Rocketseat
-- NLW - Jogos
-<br>
-<br>
+<div align="center">
+ <h1>Rocketseat</h1>
+</div>
 <blockquote>Imersão NLW Rocketseat</blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-
-<br>
+- NLW - Jogos
 
 
 <div align="center">
 
-<p><img height="200px" width="400" alt="Imagem do projeto" src="./assets/Rocketseat.png" /></p>
+<p><img height="400px" width="700" alt="Imagem do projeto" src="./assets/Rocketseat.png" /></p>
 
 <a href="https://wessslima.github.io/rocketseat/">Clique aqui e confira!</a>
-
-
 
 <br>
 <h2>Tecnologias Utilizadas</h2>
